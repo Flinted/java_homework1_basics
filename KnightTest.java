@@ -39,4 +39,6 @@ public class KnightTest{
     knight.buyHorse(horse5);
     assertEquals(4, knight.ownedHorses());
   }
+
+  
 }
